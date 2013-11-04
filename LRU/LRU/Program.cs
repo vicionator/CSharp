@@ -28,7 +28,7 @@ namespace LRU
             }
 
 
-            //Console.WriteLine(LeeRenglon(arreglo));
+            Console.WriteLine("The lowest row is: "+LeeRenglon(arreglo));
             Console.ReadLine();
             
         }
